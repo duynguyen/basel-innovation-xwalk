@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/anil-demo-1/:/",
-    "/content/anil-demo-1/configuration:/.helix/config.json"
+    "/content/epfl-forum/:/",
+    "/content/epfl-forum/configuration:/.helix/config.json"
   ]
 }
